@@ -7,7 +7,7 @@ int main()
    printf("Entrez un entier:\n");
    scanf("%d", &nbr);
 
-   if (nbr % 4 == 0)
+   if (nbr % 8 == 0)
       printf("Paire\n");
    else
       printf("Impaire\n");
