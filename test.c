@@ -12,5 +12,5 @@ int main()
    else
       printf("Impaire\n");
 
-   return 0;
+   return 1;
 }
