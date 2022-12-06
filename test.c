@@ -4,7 +4,7 @@ int main()
 {
    int nbr;
 
-   printf("Entrez un entier:\n");
+   printf("tapez un entier:\n");
    scanf("%d", &nbr);
 
    if (nbr % 8 == 0)
